@@ -22,3 +22,8 @@ Kerfi semi gerir þér kleyft að samhæfa og vinna með fleirri en eina útgáf
 Margir aðilar geta unnið á sma tíma í sama skjalinu og "mergað" breytingunum sínum saman.  Minna um árekstra og almennt þægilegt.
 6.Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 Þegar þú breytir einhverju, skiptir engu hvort það er bara whitespace eða majopr breytingar.
+7.Hvað er átt við með "Working Directory"?" og "Staging Area" í GIT?
+Working directory er þitt local copy af repo-inu.
+Staging Area er þegar þú ert búinn að "adda" breytingunum en er ert ekki búinn að committa þeim.
+
+
