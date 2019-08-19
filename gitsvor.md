@@ -20,4 +20,5 @@ Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 Kerfi semi gerir þér kleyft að samhæfa og vinna með fleirri en eina útgáfu af sama forritinu.
 5.Hverjir eru helstu kostir við að nota GIT?
 Margir aðilar geta unnið á sma tíma í sama skjalinu og "mergað" breytingunum sínum saman.  Minna um árekstra og almennt þægilegt.
-
+6.Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+Þegar þú breytir einhverju, skiptir engu hvort það er bara whitespace eða majopr breytingar.
