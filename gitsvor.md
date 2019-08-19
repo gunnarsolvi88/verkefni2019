@@ -20,4 +20,5 @@ Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 Kerfi semi gerir þér kleyft að samhæfa og vinna með fleirri en eina útgáfu af sama forritinu.
 5.Hverjir eru helstu kostir við að nota GIT?
 Margir aðilar geta unnið á sma tíma í sama skjalinu og "mergað" breytingunum sínum saman.  Minna um árekstra og almennt þægilegt.
-
+Á nýju greininni minni get ég sagt mína skoðun á Git umsjónarkerfinu:
+Ég hef voða gaman af git, ég hef notað Linux svo árum skiptir og bæði nota git,cvs og svn.  Mjög þægileg kerfi og notagildir þeirra hefur margsannað sig
