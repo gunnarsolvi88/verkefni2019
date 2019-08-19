@@ -16,3 +16,5 @@ Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
     git log - Heldur utan um commit í repo
     git checkout - Gerir þér kleyft að velja ákveðið branch innan repo
     git branch - Prentar, býr til  eða eyðir greinum
+4.Hvað er útgáfustýring (Version Control)?
+Kerfi semi gerir þér kleyft að samhæfa og vinna með fleirri en eina útgáfu af sama forritinu.
